@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">My name is Hayao and I'm a Junior Web Developer, from Tokyo</p>
+<p align="left">My name is Hayao and I'm a Junior Web Developer from Tokyo</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning Ruby, JavaScript, HTML & CSS<br>🎯 Goals: React, Tailwind ...</p>
+<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning Ruby, JavaScript, React, Tailwind, HTML & CSS<br>🎯 Goals: ...</p>
 
 ###
 
