@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning Ruby, JavaScript, React, Tailwind, HTML & CSS<br>🎯 Goals: ...</p>
+<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning Ruby, JavaScript, React, Bootstrap, Tailwind, HTML & CSS<br>🎯 Goals: ...</p>
 
 ###
 
